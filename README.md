@@ -1,5 +1,7 @@
 RallyExercise
 =============
+Author: Tyler Manser
+Date: 07/13/2014
 
 Exercise Code for Rally Software
 
@@ -9,6 +11,7 @@ Example: Convert 2523.04 to "Two thousand five hundred twenty-three and 04/100 d
 Code is written in javascript with an input interface created in html. Additional TDD is provided through Jasmine standalone framework for this exercise.
 
 --------------------------------------------------------------------------
+After downloading zipped package:
 
 Please run main number converter program through root/NumberConverter.html
 
